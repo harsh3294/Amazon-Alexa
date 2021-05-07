@@ -1,0 +1,121 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "harsh team",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "HelloWorldIntent",
+          "slots": [],
+          "samples": [
+            "hello",
+            "how are you",
+            "say hi world",
+            "say hi",
+            "hi",
+            "say hello world",
+            "say hello"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "HarshIntent",
+          "slots": [],
+          "samples": [
+            "i want to know about harsh",
+            "tell me about harsh",
+            "harsh chheda",
+            "sanitizer",
+            "harsh"
+          ]
+        },
+        {
+          "name": "ReactJS",
+          "slots": [],
+          "samples": [
+            "Javascript Library",
+            "What is React Javascript",
+            "What  is react js",
+            "React Javascript",
+            "React JS"
+          ]
+        },
+        {
+          "name": "NodeJs",
+          "slots": [],
+          "samples": [
+            "backend javascript",
+            "What is Node JS",
+            "Node Javascript",
+            "Node JS"
+          ]
+        },
+        {
+          "name": "Python",
+          "slots": [],
+          "samples": [
+            "What is python ",
+            "Python"
+          ]
+        },
+        {
+          "name": "Mortal",
+          "slots": [],
+          "samples": [
+            "Naman Mathur",
+            "Who is Naman Mathur",
+            "Who is Mortal",
+            "Mortal"
+          ]
+        },
+        {
+          "name": "ThugIntent",
+          "slots": [],
+          "samples": [
+            "Who manages mortal",
+            "Eight-Bit Thug",
+            "Amenish Jain",
+            "thug"
+          ]
+        },
+        {
+          "name": "ByeIntent",
+          "slots": [],
+          "samples": [
+            "Good Bye",
+            "Bye",
+            "Shut up",
+            "NO",
+            "No Thank You",
+            "I am done"
+          ]
+        }
+      ],
+      "types": [],
+      "modelConfiguration": {
+        "fallbackIntentSensitivity": {
+          "level": "LOW"
+        }
+      }
+    }
+  },
+  "version": "12"
+}
